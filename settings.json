@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 1,
+    "php.validate.executablePath": "okno.php",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.codeLens": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false
+}
+
